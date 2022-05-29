@@ -4,7 +4,7 @@ hi, i'm Naila!
 - 🌱 I am a computer engineering student
 
 <div align="center">
-  <a href="https://github.com/nailasuely)">
+  <a href="https://github.com/nailasuely">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nailasuely&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nailasuely&layout=compact&langs_count=7&theme=dracula"/>
 </div>
