@@ -6,7 +6,6 @@
 
 
 👩🏻‍💻 Computer Engineering student<br>
-🪐 I’m currently learning Object-Oriented Programming <br>
 
 ## 🌌 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=nailasuely&theme=radical&hide_border=true&include_all_commits=false&count_private=false)<br/>
