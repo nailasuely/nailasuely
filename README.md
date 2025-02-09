@@ -1,18 +1,25 @@
-<h1 align="center"> hi there </h1>
+<div align="center">
+  
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/962b04ba-1113-4e5e-9f6e-b2450d86969a" alt="nai" width="250">
+</p>
 
+<img width="85%" src="https://github.com/user-attachments/assets/f7112343-fc80-4107-a6ae-3c0f6d447a4a"/>
 
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nailasuely&theme=radical&hide_border=true&include_all_commits=false&count_private=false"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=nailasuely&theme=radical&hide_border=true"/>
+</div>
 
+<div align="center">
+  <a href="https://www.instagram.com/nailasuely/">
+    <img src="https://img.shields.io/badge/-Instagram-EC4899?style=flat-square&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/nailasuely">
+    <img src="https://img.shields.io/badge/-LinkedIn-EC4899?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+</div>
 
-👩🏻‍💻 Computer Engineering student<br>
+</div>
 
- <img align="right" 
-  src ="https://user-images.githubusercontent.com/98486996/227387971-1bef4bad-e061-4655-aa85-90c120135d56.gif"
-  width="40%"/>
-
-
-![](https://github-readme-stats.vercel.app/api?username=nailasuely&theme=radical&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=nailasuely&theme=radical&hide_border=true)<br/>
-
-## Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nailasuely) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nailasuely)
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=EC4899&color2=F9A8D4&height=120&section=footer"/>
