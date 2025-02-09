@@ -7,8 +7,8 @@
 <img width="85%" src="https://github.com/user-attachments/assets/f7112343-fc80-4107-a6ae-3c0f6d447a4a"/>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nailasuely&theme=radical&hide_border=true&include_all_commits=false&count_private=false"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=nailasuely&theme=radical&hide_border=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=nailasuely&theme=radical&hide_border=true&include_all_commits=false&count_private=false"/>
+  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=nailasuely&theme=radical&hide_border=true"/>
 </div>
 
 <div align="center">
