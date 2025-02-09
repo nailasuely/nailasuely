@@ -11,14 +11,16 @@
   <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=nailasuely&theme=radical&hide_border=true"/>
 </div>
 
-<div align="center">
+<div align="center" style="display: flex; justify-content: center; align-items: center;">
   <a href="https://www.instagram.com/nailasuely/">
-    <img src="https://img.shields.io/badge/-Instagram-EC4899?style=flat-square&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-EC4899?style=flat-circle&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/nailasuely">
-    <img src="https://img.shields.io/badge/-LinkedIn-EC4899?style=flat-square&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/nailasuely/">
+    <img src="https://img.shields.io/badge/LinkedIn-EC4899?style=flat-circle&logo=linkedin&logoColor=white" />
   </a>
 </div>
+
+
 
 </div>
 
