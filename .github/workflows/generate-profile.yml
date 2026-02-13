@@ -4,13 +4,21 @@ on:
   schedule:
     - cron: "0 */12 * * *" 
   workflow_dispatch: 
+  
   push:
     branches:
       - main
       - master
+      - 'feat/**'
     paths:
       - "config.yml"
       - "generator/**"
+      - ".github/workflows/**" 
+      
+  pull_request:
+    branches:
+      - main
+      - master
 
 jobs:
   generate:
@@ -21,6 +29,8 @@ jobs:
 
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0 
 
       - uses: actions/setup-python@v5
         with:
@@ -39,9 +49,16 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+          
+          # Tenta adicionar os arquivos gerados
           git add assets/generated/
-          # Verifica se houve mudanças antes de tentar commitar para evitar erro
+          
+          # Verifica se houve mudanças antes de tentar commitar para evitar erro de "nothing to commit"
           if ! git diff --staged --quiet; then
             git commit -m "chore: update profile SVGs [skip ci]"
+            
+            # O comando abaixo empurra para a branch que disparou o evento (seja main ou feat)
             git push
+          else
+            echo "No changes to commit"
           fi
