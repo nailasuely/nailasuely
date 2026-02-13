@@ -1,0 +1,79 @@
+# Galaxy Profile Configuration for Naila
+
+username: nailasuely
+
+profile:
+  name: "Naila"
+  tagline: "Computer Engineering Student"
+  company: "" 
+  location: "Brazil"
+  bio: |
+    Building robust systems and crafting elegant solutions.
+  philosophy: 'Code, caffeine, and complexity.'
+
+social:
+  email: ""
+  linkedin: "nailasuely"
+  website: ""
+
+galaxy_arms:
+  - name: "Distributed Sys"
+    color: "dendrite_violet"
+    items:
+      - "Python"
+      - "Threading"
+      - "Sockets"
+      - "Concurrency"
+      
+  - name: "Fullstack & Web"
+    color: "synapse_cyan"
+    items:
+      - "React"
+      - "Flask"
+      - "Tailwind"
+      - "Network"
+
+  - name: "Engineering"
+    color: "axon_amber"
+    items:
+      - "C / C++"
+      - "Algorithms"
+      - "Linux"
+      - "Git"
+
+projects:
+  - repo: "nailasuely/distributed-time-sync"
+    arm: 0
+    description: "Virtual clock synchronization across distributed nodes."
+  
+  - repo: "nailasuely/distributed-banking-system"
+    arm: 1
+    description: "Concurrent banking system handling distributed transactions."
+
+
+theme:
+  void: "#080c14"
+  nebula: "#0f1623"
+  star_dust: "#1a2332"
+  synapse_cyan: "#00d4ff"
+  dendrite_violet: "#a78bfa"
+  axon_amber: "#ffb020"
+  text_bright: "#f1f5f9"
+  text_dim: "#94a3b8"
+  text_faint: "#64748b"
+
+stats:
+  metrics:
+    - "commits"
+    - "stars"
+    - "prs"
+    - "issues"
+    - "repos"
+
+languages:
+  exclude:
+    - "Jupyter Notebook"
+    - "CSS"
+    - "HTML"
+    - "Makefile"
+  max_display: 8
