@@ -11,8 +11,14 @@
   <br/>
   <br/>
 
-  <a href="https://www.linkedin.com/in/nailasuely/">
-    <img src="https://img.shields.io/badge/LinkedIn-080c14?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<div align="center">
+  <a href="https://www.instagram.com/nailasuely/" style="text-decoration:none">
+    <img src="https://img.shields.io/badge/Instagram-A78BFA?style=flat-circle&logo=instagram&logoColor=white" />
   </a>
+  <a href="https://www.linkedin.com/in/nailasuely/" style="text-decoration:none">
+    <img src="https://img.shields.io/badge/LinkedIn-A78BFA?style=flat-circle&logo=linkedin&logoColor=white" />
+  </a>
+</div>
 
 </div>
+
