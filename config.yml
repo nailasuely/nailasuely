@@ -7,9 +7,8 @@ profile:
   tagline: "Computer Engineering Student"
   company: "" 
   location: "Brazil"
-  bio: |
-    Building robust systems and crafting elegant solutions.
-  philosophy: 'Code, caffeine, and complexity.'
+  bio: | 
+  philosophy: ''
 
 social:
   email: ""
@@ -17,39 +16,38 @@ social:
   website: ""
 
 galaxy_arms:
-  - name: "Distributed Sys"
-    color: "dendrite_violet"
-    items:
-      - "Python"
-      - "Threading"
-      - "Sockets"
-      - "Concurrency"
-      
-  - name: "Fullstack & Web"
-    color: "synapse_cyan"
-    items:
-      - "React"
-      - "Flask"
-      - "Tailwind"
-      - "Network"
-
-  - name: "Engineering"
-    color: "axon_amber"
+  - name: "Systems & Embedded"
+    color: "dendrite_violet" 
     items:
       - "C / C++"
-      - "Algorithms"
-      - "Linux"
-      - "Git"
+      - "Verilog / FPGA" 
+      - "Assembly"     
+      - "Microcontrollers"
+
+  - name: "Cloud & Data"
+    color: "axon_amber"
+    items:
+      - "AWS"
+      - "PostgreSQL"
+      - "Python"
+      - "Computer Vision"
+
+  - name: "Web & Distributed"
+    color: "synapse_cyan"
+    items:
+      - "TypeScript"
+      - "React"
+      - "Networking"    
+      - "Git / CI/CD"
 
 projects:
   - repo: "nailasuely/distributed-time-sync"
-    arm: 0
-    description: "Virtual clock synchronization across distributed nodes."
+    arm: 2
+    description: "Distributed clock synchronization system using Berkeley algorithm principles."
   
   - repo: "nailasuely/distributed-banking-system"
-    arm: 1
-    description: "Concurrent banking system handling distributed transactions."
-
+    arm: 2
+    description: "Scalable banking architecture handling concurrent distributed transactions."
 
 theme:
   void: "#080c14"
@@ -76,4 +74,6 @@ languages:
     - "CSS"
     - "HTML"
     - "Makefile"
+    - "CMake"
+    - "TeX"
   max_display: 8
